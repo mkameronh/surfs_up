@@ -4,11 +4,12 @@
 The purpose of this analysis was to look at historical weather data in order to see trends in precipitation and temperature. We did so by looking at data from different stations and by comparing data between June and December to see if the ice cream and surf shop idea is sustainable year-round.
 
 ## Results:
-
 June:
+
 ![Deliverable 1](https://user-images.githubusercontent.com/90940985/154865175-1f381854-fadb-48e4-a855-49dabf34841c.jpg)
 
 December:
+
 ![Deliverable 2](https://user-images.githubusercontent.com/90940985/154865188-a5b7b649-6971-485f-b65d-b7d05068dad1.jpg)
 
 The three key differences in the June and December data are:
